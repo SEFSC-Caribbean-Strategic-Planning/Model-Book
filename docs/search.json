@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Model-Book",
+    "section": "",
+    "text": "This is an example Quarto book in html format.\nQuarto allow us to have websites, documents (pdf or doc), and slideshow presentations (ppt, revealjs, or beamer).\nThe outputs can automatically update when we make changes to the linked data inputs (spreadsheet of people and projects)."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "1  People",
+    "section": "",
+    "text": "Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  },
+  {
+    "objectID": "people.html#morbi-iaculis-1",
+    "href": "people.html#morbi-iaculis-1",
+    "title": "1  People",
+    "section": "Morbi iaculis",
+    "text": "Morbi iaculis\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  },
+  {
+    "objectID": "people.html#morbi-iaculis-2",
+    "href": "people.html#morbi-iaculis-2",
+    "title": "1  People",
+    "section": "Morbi iaculis",
+    "text": "Morbi iaculis\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "2  Projects",
+    "section": "",
+    "text": "Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  },
+  {
+    "objectID": "projects.html#morbi-iaculis-1",
+    "href": "projects.html#morbi-iaculis-1",
+    "title": "2  Projects",
+    "section": "Morbi iaculis",
+    "text": "Morbi iaculis\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  },
+  {
+    "objectID": "projects.html#morbi-iaculis-2",
+    "href": "projects.html#morbi-iaculis-2",
+    "title": "2  Projects",
+    "section": "Morbi iaculis",
+    "text": "Morbi iaculis\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra."
+  }
+]

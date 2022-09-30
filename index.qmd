@@ -1,0 +1,7 @@
+# Welcome {.unnumbered}
+
+This is an example Quarto book in html format.
+
+Quarto allow us to have websites, documents (pdf or doc), and slideshow presentations (ppt, revealjs, or beamer).
+
+The outputs can automatically update when we make changes to the linked data inputs (spreadsheet of people and projects).

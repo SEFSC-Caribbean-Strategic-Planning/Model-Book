@@ -1,0 +1,41 @@
+project:
+  type: book
+  output-dir: docs
+  output-file: "QmdReport"
+
+book:
+  title: "Model-Book"
+  author: "Demo"
+  date: "9/30/2022"
+  downloads: [pdf, docx]
+  chapters:
+    - index.qmd
+    - people.qmd
+    - projects.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  docx:
+    toc: true
+    toc-depth: 2
+    reference-doc: template.docx
+    always_allow_html: true
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+  pdf:
+    documentclass: scrbook
+    classoption: ["oneside"]
+    template-partials: ["partials/before-body.tex"]
+    toc: true
+    toc-depth: 2
+    lof: true
+    lot: true
+    include-in-header: 
+      - partials/inheader.tex
+
+editor: visual
+
