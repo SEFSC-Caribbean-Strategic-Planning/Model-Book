@@ -1,13 +1,13 @@
 # Projects
 
-## Morbi iaculis {.unnumbered}
+## Project 1 {#sec-pro1}
 
-Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra.
+@sec-arios
 
-## Morbi iaculis {.unnumbered}
+## Project 2 {#sec-pro2}
 
-Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra.
+@sec-reckley
 
-## Morbi iaculis {.unnumbered}
+## Project 3 {#sec-pro3}
 
-Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra.
+@sec-ssagarese
