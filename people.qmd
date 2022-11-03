@@ -2,12 +2,12 @@
 
 ## Adyan Rios {#sec-arios}
 
-@sec-pro1
+Project 1 ^[-@sec-pro1]^
 
 ## Rachel Eckley {#sec-reckley}
 
-@sec-pro2
+Project 2 ^[-@sec-pro2]^
 
 ## Skyler Sagarese {#sec-ssagarese}
 
-@sec-pro3
+Project 3 ^[-@sec-pro3]^
