@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: docs
-  output-file: "QmdReport"
 
 book:
   title: "Model-Book"
