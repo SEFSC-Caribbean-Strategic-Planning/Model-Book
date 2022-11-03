@@ -2,12 +2,12 @@
 
 ## Adyan Rios {#sec-arios}
 
-Project 1^[-@sec-pro1]^
+[New Book - @sec-pro1]
 
 ## Rachel Eckley {#sec-reckley}
 
-Project 2^[-@sec-pro2]^
+[New Org - @sec-pro2]
 
 ## Skyler Sagarese {#sec-ssagarese}
 
-Project 3^[-@sec-pro3]^
+[New Repo - @sec-pro3]

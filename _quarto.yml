@@ -7,6 +7,8 @@ book:
   author: "Demo"
   date: "9/30/2022"
   downloads: [pdf, docx]
+  crossref:
+    chapters: false
   chapters:
     - index.qmd
     - people.qmd
