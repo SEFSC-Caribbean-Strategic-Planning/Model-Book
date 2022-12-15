@@ -4,11 +4,11 @@ project:
 
 book:
   title: "Model-Book"
-  author: "Demo"
-  date: "9/30/2022"
   downloads: [pdf, docx]
   crossref:
     chapters: false
+  author:
+    - name: Jane Doe
   chapters:
     - index.qmd
     - people.qmd
@@ -33,15 +33,7 @@ format:
     toc: true
     toc-depth: 3
   pdf:
-    documentclass: scrbook
-    classoption: ["oneside"]
-    template-partials: ["partials/before-body.tex"]
-    toc: true
     toc-depth: 2
-    lof: true
-    lot: true
-    include-in-header: 
-      - partials/inheader.tex
 
 editor: visual
 
