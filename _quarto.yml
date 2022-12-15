@@ -15,6 +15,11 @@ book:
     - projects.qmd
     - references.qmd
 
+  site-url: https://sefsc-caribbean-strategic-planning.github.io/Model-Book/
+  repo-url: https://github.com/SEFSC-Caribbean-Strategic-Planning/Model-Book
+  repo-actions: [edit, source, issue]
+  search: true
+
 bibliography: references.bib
 
 format:
